@@ -12,3 +12,5 @@ git remote add upstream  https://github.com/mccanndavidp/DMC1repository
 git remote -v,
 
 git checkout -b proposed-fixes master  
+
+git push origin proposed-fixes
